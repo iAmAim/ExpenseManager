@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <Product id="1">
+    <Date>10/9/2013 12:00:00 AM</Date>
+    <Name>Product01</Name>
+    <Description>asd</Description>
+    <Price>.6</Price>
+  </Product>
+  <Product id="2">
+    <Date>10/1/2013 12:00:00 AM</Date>
+    <Name>Laptop</Name>
+    <Description>..</Description>
+    <Price>199</Price>
+  </Product>
+  <Product id="3">
+    <Date>10/30/2013 12:00:00 AM</Date>
+    <Name>Graphics card AMD</Name>
+    <Description>..</Description>
+    <Price>399.97</Price>
+  </Product>
+</Products>
